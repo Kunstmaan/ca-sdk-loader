@@ -1,0 +1,7 @@
+<?php
+
+  function ca_sdk_loader_boot() {
+    require_once('ca-sdk/CollectiveAccess.php');
+      spl_autoload_register(array('AutoloadClass', 'autoload'));
+  }
+

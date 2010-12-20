@@ -1,0 +1,5 @@
+; $Id$
+name = CollectiveAccess SDK Loader
+description = Module to load the PHP SDK for the CollectiveAccess API.
+package = Collective Access
+core = 6.x
