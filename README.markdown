@@ -5,7 +5,7 @@ CollectiveAccess SDK for PHP
 functionality through a number of web services that can be accessed by other software, 
 developed in any programming language you like.
 
-This repositoy contains a Drupal loader which can be used to load the [CA SDK for PHP](http://github.com/Kunstmaan/ca-sdk).
+This repository contains a Drupal loader which can be used to load the [CA SDK for PHP](http://github.com/Kunstmaan/ca-sdk).
 
 
 Installation
