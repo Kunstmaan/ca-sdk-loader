@@ -1,4 +1,5 @@
 <?php
+// $Id$
 
   function ca_sdk_loader_boot() {
     require_once('ca-sdk/CollectiveAccess.php');

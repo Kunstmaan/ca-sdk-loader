@@ -22,3 +22,4 @@ Additional Information
 * CollectiveAccess SDK for PHP: <http://github.com/Kunstmaan/ca-sdk>
 * CollectiveAccess: <http://www.collectiveaccess.org/>
 * Kunstmaan: <http://www.kunstmaan.be>
+* Drupal based class for caching: <http://gist.github.com/748701>
